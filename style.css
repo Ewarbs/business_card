@@ -1,0 +1,31 @@
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: lighter;
+  color: black;
+  text-align: left;
+}
+
+h2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: lighter;
+  text-align: left;
+  color: rgb(94, 37, 61);
+}
+
+footer {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: right;
+}
+
+h3 {
+  font-weight: lighter;
+  display: block;
+  padding: 30px;
+  margin: 0 auto;
+  font-family: "Josefin Sans", sans-serif;
+  color: brown;
+}
+
+body {
+  background-color: peachpuff;
+}
